@@ -8,6 +8,7 @@ A research project which attempts to explore the various levels of air pollution
 !['CO2 and NO2.png'](plot.png)
 !['PM10.png'](plotPM.png)
 
+### After initial proliferation in PM10 levels till Oct, they decreased in the following months.
 
 # Technologies Used
   
