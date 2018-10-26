@@ -5,6 +5,7 @@ A research project which attempts to explore the various levels of air pollution
 
 ## UPDATE: Final Plot for data 2012 through 2015
 
+!['CO2 and NO2.png'](plot.png)
 !['PM10.png'](plotPM.png)
 
 
